@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "236939365994",
+    "project_id": "donate-b904f",
+    "storage_bucket": "donate-b904f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236939365994:android:c9230f38ecd8c7476d4413",
+        "android_client_info": {
+          "package_name": "com.givelify.donate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236939365994-b7oesdnp9n1qjmfmoaipavaqv4i0mtn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOwY0y7vWfH9LRRrVGrJaJCITFf0UL0p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236939365994-b7oesdnp9n1qjmfmoaipavaqv4i0mtn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

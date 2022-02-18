@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Donate</string>
+    <string name="registration_hint_email">Email</string>
+    <string name="registration_hint_password">Password</string>
+    <string name="registration_hint_confirm_password">Confirm Password</string>
+    <string name="login_hint_email">Email</string>
+    <string name="login_hint_password">Password</string>
+    <string name="login_button">L O G I N</string>
 </resources>
